@@ -1,0 +1,2 @@
+● 2020-10-19 16:31:43 / Mon > DashBoard (ajax.tnms_stat) > INFO :: sms query ▶ ["select count(*)  from g5_tnms_log\r\n     where  mg_no = '879'  and DATE_FORMAT(cm_datetime,'%Y-%m-%d') = '2020-10-19' and cm_time > 0"]
+● 2020-10-19 16:31:43 / Mon > DashBoard (ajax.tnms_stat) > INFO :: tnms query ▶ ["select count(*)  from g5_tnms_log\r\n     where  mg_no = '879' and cm_month = '2020-10' and cm_time > 0 "]

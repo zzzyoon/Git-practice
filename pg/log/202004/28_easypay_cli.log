@@ -1,0 +1,45 @@
+0428-143456 - 15708 - 2004281433551088522 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORDER_202004281588041721589]
+0428-143456 - 15708 - 2004281433551088522 - MSG : PG_서버_접속__정상
+0428-143456 - 15708 - 2004281433551088522 - MSG : PG_서버_요청_전문_전송__정상
+0428-143456 - 15708 - 2004281433551088522 - MSG : PG_서버_응답_전문_수신__정상
+0428-143456 - 15708 - 2004281433551088522 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20042814335510885229order_no=ORDER_202004281588041721589amount=110000auth_no=00083713tran_date=20200428143448card_no=4330870025768911issuer_cd=BRDissuer_nm=OK:00083713acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=4HPTGGzHgZj2PM5Iz52FxLKaLlt6d3tv4tE9Ds9o4oQ=user_nm=거제초등학교user_id=0515028081bk_pay_yn=N]
+0428-144938 - 14348 - 2004281448021088525 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORD_3_202004281588052879132]
+0428-144939 - 14348 - 2004281448021088525 - MSG : PG_서버_접속__정상
+0428-144939 - 14348 - 2004281448021088525 - MSG : PG_서버_요청_전문_전송__정상
+0428-144939 - 14348 - 2004281448021088525 - MSG : PG_서버_응답_전문_수신__정상
+0428-144939 - 14348 - 2004281448021088525 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20042814480210885256order_no=ORD_3_202004281588052879132amount=110000auth_no=00083735tran_date=20200428144930card_no=4330870025768911issuer_cd=BRDissuer_nm=OK:00083735acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=4HPTGGzHgZj2PM5Iz52FxLKaLlt6d3tv4tE9Ds9o4oQ=user_nm=거제초등학교user_id=0515028081bk_pay_yn=N]
+0428-145242 - 16940 - 2004281452041088527 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORD_3_202004281588053123077]
+0428-145242 - 16940 - 2004281452041088527 - MSG : PG_서버_접속__정상
+0428-145242 - 16940 - 2004281452041088527 - MSG : PG_서버_요청_전문_전송__정상
+0428-145242 - 16940 - 2004281452041088527 - MSG : PG_서버_응답_전문_수신__정상
+0428-145242 - 16940 - 2004281452041088527 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20042814520410885275order_no=ORD_3_202004281588053123077amount=110000auth_no=00083750tran_date=20200428145234card_no=4330870025768911issuer_cd=BRDissuer_nm=OK:00083750acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=4HPTGGzHgZj2PM5Iz52FxLKaLlt6d3tv4tE9Ds9o4oQ=user_nm=거제초등학교user_id=0515028081bk_pay_yn=N]
+0428-152904 - 15644 - 2004281528171088535 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORD_3_202004281588055264972]
+0428-152904 - 15644 - 2004281528171088535 - MSG : PG_서버_접속__정상
+0428-152904 - 15644 - 2004281528171088535 - MSG : PG_서버_요청_전문_전송__정상
+0428-152905 - 15644 - 2004281528171088535 - MSG : PG_서버_응답_전문_수신__정상
+0428-152905 - 15644 - 2004281528171088535 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20042815281710885357order_no=ORD_3_202004281588055264972amount=33000auth_no=00083788tran_date=20200428152856card_no=4330870025768911issuer_cd=BRDissuer_nm=OK:00083788acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=4HPTGGzHgZj2PM5Iz52FxLKaLlt6d3tv4tE9Ds9o4oQ=user_nm=거제초등학교user_id=0515028081bk_pay_yn=N]
+0428-155130 - 13272 - 2004281550431088540 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORD_3_202004281588056641743]
+0428-155130 - 13272 - 2004281550431088540 - MSG : PG_서버_접속__정상
+0428-155130 - 13272 - 2004281550431088540 - MSG : PG_서버_요청_전문_전송__정상
+0428-155130 - 13272 - 2004281550431088540 - MSG : PG_서버_응답_전문_수신__정상
+0428-155130 - 13272 - 2004281550431088540 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20042815504310885406order_no=ORD_3_202004281588056641743amount=33000auth_no=00083802tran_date=20200428155121card_no=4330870025768911issuer_cd=BRDissuer_nm=OK:00083802acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=4HPTGGzHgZj2PM5Iz52FxLKaLlt6d3tv4tE9Ds9o4oQ=user_nm=거제초등학교user_id=0515028081bk_pay_yn=N]
+0428-155550 - 14040 - 2004281550431088540 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORD_3_202004281588056641743]
+0428-155550 - 14040 - 2004281550431088540 - MSG : PG_서버_접속__정상
+0428-155550 - 14040 - 2004281550431088540 - MSG : PG_서버_요청_전문_전송__정상
+0428-155550 - 14040 - 2004281550431088540 - MSG : PG_서버_응답_전문_수신__정상
+0428-155550 - 14040 - 2004281550431088540 - MSG : ENDED - res=[res_cd=9995res_msg=거래 일련번호 중복cno=20042815504310885406order_no=ORD_3_202004281588056641743]
+0428-155554 - 13384 - 2004281550431088540 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORD_3_202004281588056641743]
+0428-155554 - 13384 - 2004281550431088540 - MSG : PG_서버_접속__정상
+0428-155554 - 13384 - 2004281550431088540 - MSG : PG_서버_요청_전문_전송__정상
+0428-155554 - 13384 - 2004281550431088540 - MSG : PG_서버_응답_전문_수신__정상
+0428-155554 - 13384 - 2004281550431088540 - MSG : ENDED - res=[res_cd=9995res_msg=거래 일련번호 중복cno=20042815504310885406order_no=ORD_3_202004281588056641743]
+0428-155606 -  4428 - 2004281550431088540 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORD_3_202004281588056641743]
+0428-155606 -  4428 - 2004281550431088540 - MSG : PG_서버_접속__정상
+0428-155606 -  4428 - 2004281550431088540 - MSG : PG_서버_요청_전문_전송__정상
+0428-155606 -  4428 - 2004281550431088540 - MSG : PG_서버_응답_전문_수신__정상
+0428-155606 -  4428 - 2004281550431088540 - MSG : ENDED - res=[res_cd=9995res_msg=거래 일련번호 중복cno=20042815504310885406order_no=ORD_3_202004281588056641743]
+0428-165816 - 15592 - 2004281657341088557 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORD_3_202004281588060647564]
+0428-165817 - 15592 - 2004281657341088557 - MSG : PG_서버_접속__정상
+0428-165817 - 15592 - 2004281657341088557 - MSG : PG_서버_요청_전문_전송__정상
+0428-165817 - 15592 - 2004281657341088557 - MSG : PG_서버_응답_전문_수신__정상
+0428-165817 - 15592 - 2004281657341088557 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20042816573410885573order_no=ORD_3_202004281588060647564amount=33000auth_no=00083857tran_date=20200428165808card_no=4330870025768911issuer_cd=BRDissuer_nm=OK:00083857acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=4HPTGGzHgZj2PM5Iz52FxLKaLlt6d3tv4tE9Ds9o4oQ=user_nm=거제초등학교user_id=0515028081bk_pay_yn=N]

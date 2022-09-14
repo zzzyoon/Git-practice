@@ -1,0 +1,22 @@
+0521-182622 -  8076 - 2005211823431091164 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORD_70_202005211590053024352]
+0521-182622 -  8076 - 2005211823431091164 - MSG : PG_서버_접속__정상
+0521-182622 -  8076 - 2005211823431091164 - MSG : PG_서버_요청_전문_전송__정상
+0521-182622 -  8076 - 2005211823431091164 - MSG : PG_서버_응답_전문_수신__정상
+0521-182622 -  8076 - 2005211823431091164 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20052118234310911645order_no=ORD_70_202005211590053024352amount=11000auth_no=00094167tran_date=20200521182557card_no=6258170006360595issuer_cd=BRDissuer_nm=OK:00094167acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=L7U3lB/O/pok9U6JmvOhFFgMIYpo0Z1UtIhcBc9EE8g=user_nm=이재영user_id=050842629921bk_pay_yn=N]
+0521-182838 -  3972 - T00101435LISc8Im30B - MSG : START - tr_cd=[00201000]+mall_id=[T0010143]+order_no=[]
+0521-182838 -  3972 - T00101435LISc8Im30B - MSG : 암호화키 - public_encrypted - [128]
+0521-182838 -  3972 - T00101435LISc8Im30B - MSG : PG_서버_접속__정상
+0521-182838 -  3972 - T00101435LISc8Im30B - MSG : PG_서버_요청_전문_전송__정상
+0521-182838 -  3972 - T00101435LISc8Im30B - MSG : PG_서버_응답_전문_수신__정상
+0521-182838 -  3972 - T00101435LISc8Im30B - MSG : ENDED - res=[res_cd=0000res_msg=정상취소cno=20052118234310911645order_no=ORD_70_202005211590053024352amount=11000tran_date=20200521182814remain_pnt=0accrue_pnt=0escrow_yn=Ncanc_date=20200521182814stat_cd=TS02stat_msg=승인취소pay_type=11memb_id=T0010143noti_type=20mgr_amt=11000mgr_card_amt=11000mgr_cpon_amt=0mgr_seqno=20052118281310911655day_rem_pnt=0month_rem_pnt=0day_rem_cnt=0bk_pay_yn=N]
+0521-183412 -  6284 - 2005211832501091166 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORD_3_202005211590053570947]
+0521-183412 -  6284 - 2005211832501091166 - MSG : PG_서버_접속__정상
+0521-183412 -  6284 - 2005211832501091166 - MSG : PG_서버_요청_전문_전송__정상
+0521-183412 -  6284 - 2005211832501091166 - MSG : PG_서버_응답_전문_수신__정상
+0521-183412 -  6284 - 2005211832501091166 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20052118325010911669order_no=ORD_3_202005211590053570947amount=33000auth_no=00094174tran_date=20200521183347card_no=6258170006360595issuer_cd=BRDissuer_nm=OK:00094174acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=L7U3lB/O/pok9U6JmvOhFFgMIYpo0Z1UtIhcBc9EE8g=user_nm=거제초등학교reserve1=34reserve2=29125user_id=0515028081bk_pay_yn=N]
+0521-183644 - 13332 - T00101435LIai8Im30B - MSG : START - tr_cd=[00201000]+mall_id=[T0010143]+order_no=[]
+0521-183644 - 13332 - T00101435LIai8Im30B - MSG : 암호화키 - public_encrypted - [128]
+0521-183644 - 13332 - T00101435LIai8Im30B - MSG : PG_서버_접속__정상
+0521-183644 - 13332 - T00101435LIai8Im30B - MSG : PG_서버_요청_전문_전송__정상
+0521-183645 - 13332 - T00101435LIai8Im30B - MSG : PG_서버_응답_전문_수신__정상
+0521-183645 - 13332 - T00101435LIai8Im30B - MSG : ENDED - res=[res_cd=0000res_msg=정상취소cno=20052118325010911669order_no=ORD_3_202005211590053570947amount=33000tran_date=20200521183620remain_pnt=0accrue_pnt=0escrow_yn=Ncanc_date=20200521183620stat_cd=TS02stat_msg=승인취소pay_type=11memb_id=T0010143noti_type=20mgr_amt=33000mgr_card_amt=33000mgr_cpon_amt=0mgr_seqno=20052118362010911671day_rem_pnt=0month_rem_pnt=0day_rem_cnt=0bk_pay_yn=N]

@@ -1,0 +1,5 @@
+0422-151124 - 14196 - 2004221509331087824 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORDER_202004221587535772622]
+0422-151124 - 14196 - 2004221509331087824 - MSG : PG_서버_접속__정상
+0422-151124 - 14196 - 2004221509331087824 - MSG : PG_서버_요청_전문_전송__정상
+0422-151124 - 14196 - 2004221509331087824 - MSG : PG_서버_응답_전문_수신__정상
+0422-151124 - 14196 - 2004221509331087824 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20042215093310878247order_no=ORDER_202004221587535772622amount=51004auth_no=00080640tran_date=20200422151122card_no=4330870025768911issuer_cd=BRDissuer_nm=OK:00080640acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=4HPTGGzHgZj2PM5Iz52FxLKaLlt6d3tv4tE9Ds9o4oQ=user_nm=홍길동user_id=psj1988bk_pay_yn=N]

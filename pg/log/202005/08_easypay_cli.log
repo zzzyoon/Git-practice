@@ -1,0 +1,46 @@
+0508-111116 -  5352 - 2005081103001089479 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORDM_70_202005081588903380096]
+0508-111116 -  5352 - 2005081103001089479 - MSG : PG_서버_접속__정상
+0508-111116 -  5352 - 2005081103001089479 - MSG : PG_서버_요청_전문_전송__정상
+0508-111116 -  5352 - 2005081103001089479 - MSG : PG_서버_응답_전문_수신__정상
+0508-111116 -  5352 - 2005081103001089479 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20050811030010894792order_no=ORDM_70_202005081588903380096amount=22000auth_no=00088002tran_date=20200508111106card_no=4330870025768911issuer_cd=BRDissuer_nm=OK:00088002acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=4HPTGGzHgZj2PM5Iz52FxLKaLlt6d3tv4tE9Ds9o4oQ=user_nm=이재영user_id=050842629921bk_pay_yn=N]
+0508-112826 - 13712 - 2005081126221089484 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORDM_70_202005081588904782390]
+0508-112826 - 13712 - 2005081126221089484 - MSG : PG_서버_접속__정상
+0508-112826 - 13712 - 2005081126221089484 - MSG : PG_서버_요청_전문_전송__정상
+0508-112826 - 13712 - 2005081126221089484 - MSG : PG_서버_응답_전문_수신__정상
+0508-112826 - 13712 - 2005081126221089484 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20050811262210894844order_no=ORDM_70_202005081588904782390amount=22000auth_no=00088012tran_date=20200508112816card_no=4330870025768911issuer_cd=BRDissuer_nm=OK:00088012acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=4HPTGGzHgZj2PM5Iz52FxLKaLlt6d3tv4tE9Ds9o4oQ=user_nm=이재영user_id=050842629921bk_pay_yn=N]
+0508-113053 -  5000 - 2005081126221089484 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORDM_70_202005081588904782390]
+0508-113053 -  5000 - 2005081126221089484 - MSG : PG_서버_접속__정상
+0508-113053 -  5000 - 2005081126221089484 - MSG : PG_서버_요청_전문_전송__정상
+0508-113053 -  5000 - 2005081126221089484 - MSG : PG_서버_응답_전문_수신__정상
+0508-113053 -  5000 - 2005081126221089484 - MSG : ENDED - res=[res_cd=9995res_msg=거래 일련번호 중복cno=20050811262210894844order_no=ORDM_70_202005081588904782390]
+0508-113107 - 15320 - 2005081126221089484 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORDM_70_202005081588904782390]
+0508-113107 - 15320 - 2005081126221089484 - MSG : PG_서버_접속__정상
+0508-113107 - 15320 - 2005081126221089484 - MSG : PG_서버_요청_전문_전송__정상
+0508-113107 - 15320 - 2005081126221089484 - MSG : PG_서버_응답_전문_수신__정상
+0508-113107 - 15320 - 2005081126221089484 - MSG : ENDED - res=[res_cd=9995res_msg=거래 일련번호 중복cno=20050811262210894844order_no=ORDM_70_202005081588904782390]
+0508-115813 -  5444 - 2005081155061089487 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORDM_70_202005081588906506319]
+0508-115813 -  5444 - 2005081155061089487 - MSG : PG_서버_접속__정상
+0508-115813 -  5444 - 2005081155061089487 - MSG : PG_서버_요청_전문_전송__정상
+0508-115813 -  5444 - 2005081155061089487 - MSG : PG_서버_응답_전문_수신__정상
+0508-115813 -  5444 - 2005081155061089487 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20050811550610894878order_no=ORDM_70_202005081588906506319amount=22000auth_no=00088031tran_date=20200508115803card_no=4330870025768911issuer_cd=BRDissuer_nm=OK:00088031acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=4HPTGGzHgZj2PM5Iz52FxLKaLlt6d3tv4tE9Ds9o4oQ=user_nm=이재영user_id=050842629921bk_pay_yn=N]
+0508-120814 -  4556 - T001014358C8EF1raLF - MSG : START - tr_cd=[00201000]+mall_id=[T0010143]+order_no=[]
+0508-120814 -  4556 - T001014358C8EF1raLF - MSG : 암호화키 - public_encrypted - [128]
+0508-120815 -  4556 - T001014358C8EF1raLF - MSG : PG_서버_접속__정상
+0508-120815 -  4556 - T001014358C8EF1raLF - MSG : PG_서버_요청_전문_전송__정상
+0508-120815 -  4556 - T001014358C8EF1raLF - MSG : PG_서버_응답_전문_수신__정상
+0508-120815 -  4556 - T001014358C8EF1raLF - MSG : ENDED - res=[res_cd=0000res_msg=정상취소cno=20050811550610894878order_no=ORDM_70_202005081588906506319amount=22000tran_date=20200508120805remain_pnt=0accrue_pnt=0escrow_yn=Ncanc_date=20200508120805stat_cd=TS02stat_msg=승인취소pay_type=11memb_id=T0010143noti_type=20mgr_amt=22000mgr_card_amt=22000mgr_cpon_amt=0mgr_seqno=20050812080410894897day_rem_pnt=0month_rem_pnt=0day_rem_cnt=0bk_pay_yn=N]
+0508-180334 - 14368 - 2005081801431089560 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORDM_3_202005081588928502662]
+0508-180334 - 14368 - 2005081801431089560 - MSG : PG_서버_접속__정상
+0508-180334 - 14368 - 2005081801431089560 - MSG : PG_서버_요청_전문_전송__정상
+0508-180334 - 14368 - 2005081801431089560 - MSG : PG_서버_응답_전문_수신__정상
+0508-180334 - 14368 - 2005081801431089560 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20050818014310895600order_no=ORDM_3_202005081588928502662amount=110000auth_no=00088319tran_date=20200508180324card_no=4330870025768911issuer_cd=BRDissuer_nm=OK:00088319acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=4HPTGGzHgZj2PM5Iz52FxLKaLlt6d3tv4tE9Ds9o4oQ=user_nm=거제초등학교user_id=0515028081bk_pay_yn=N]
+0508-180641 -  2272 - 2005081801431089560 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORDM_3_202005081588928502662]
+0508-180641 -  2272 - 2005081801431089560 - MSG : PG_서버_접속__정상
+0508-180641 -  2272 - 2005081801431089560 - MSG : PG_서버_요청_전문_전송__정상
+0508-180641 -  2272 - 2005081801431089560 - MSG : PG_서버_응답_전문_수신__정상
+0508-180641 -  2272 - 2005081801431089560 - MSG : ENDED - res=[res_cd=9995res_msg=거래 일련번호 중복cno=20050818014310895600order_no=ORDM_3_202005081588928502662]
+0508-182355 -  5852 - 2005081819191089561 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORDM_3_202005081588929559082]
+0508-182355 -  5852 - 2005081819191089561 - MSG : PG_서버_접속__정상
+0508-182355 -  5852 - 2005081819191089561 - MSG : PG_서버_요청_전문_전송__정상
+0508-182355 -  5852 - 2005081819191089561 - MSG : PG_서버_응답_전문_수신__정상
+0508-182355 -  5852 - 2005081819191089561 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20050818191910895619order_no=ORDM_3_202005081588929559082amount=110000auth_no=00088325tran_date=20200508182345card_no=4330870025768911issuer_cd=BRDissuer_nm=OK:00088325acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=4HPTGGzHgZj2PM5Iz52FxLKaLlt6d3tv4tE9Ds9o4oQ=user_nm=거제초등학교reserve1=34reserve2=29125user_id=0515028081bk_pay_yn=N]

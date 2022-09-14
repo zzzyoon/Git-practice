@@ -1,0 +1,5 @@
+0520-175835 -  4456 - 2005201755391091013 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORDM_70_202005201589964939337]
+0520-175835 -  4456 - 2005201755391091013 - MSG : PG_서버_접속__정상
+0520-175835 -  4456 - 2005201755391091013 - MSG : PG_서버_요청_전문_전송__정상
+0520-175835 -  4456 - 2005201755391091013 - MSG : PG_서버_응답_전문_수신__정상
+0520-175835 -  4456 - 2005201755391091013 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20052017553910910132order_no=ORDM_70_202005201589964939337amount=22000auth_no=00093498tran_date=20200520175811card_no=4330870025768911issuer_cd=BRDissuer_nm=OK:00093498acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=4HPTGGzHgZj2PM5Iz52FxLKaLlt6d3tv4tE9Ds9o4oQ=user_nm=이재영user_id=050842629921bk_pay_yn=N]

@@ -1,0 +1,30 @@
+0429-160327 - 11292 - 2004291602311088745 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORD_3_202004291588143752316]
+0429-160327 - 11292 - 2004291602311088745 - MSG : PG_서버_접속__정상
+0429-160327 - 11292 - 2004291602311088745 - MSG : PG_서버_요청_전문_전송__정상
+0429-160327 - 11292 - 2004291602311088745 - MSG : PG_서버_응답_전문_수신__정상
+0429-160327 - 11292 - 2004291602311088745 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20042916023110887459order_no=ORD_3_202004291588143752316amount=33000auth_no=00084618tran_date=20200429160327card_no=4330870025768911issuer_cd=BRDissuer_nm=OK:00084618acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=4HPTGGzHgZj2PM5Iz52FxLKaLlt6d3tv4tE9Ds9o4oQ=user_nm=거제초등학교reserve1=abcreserve2=eeeuser_id=0515028081bk_pay_yn=N]
+0429-160653 -  8868 - 2004291602311088745 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORD_3_202004291588143752316]
+0429-160653 -  8868 - 2004291602311088745 - MSG : PG_서버_접속__정상
+0429-160653 -  8868 - 2004291602311088745 - MSG : PG_서버_요청_전문_전송__정상
+0429-160653 -  8868 - 2004291602311088745 - MSG : PG_서버_응답_전문_수신__정상
+0429-160653 -  8868 - 2004291602311088745 - MSG : ENDED - res=[res_cd=9995res_msg=거래 일련번호 중복cno=20042916023110887459order_no=ORD_3_202004291588143752316reserve1=abcreserve2=eee]
+0429-165037 - 11712 - 2004291649001088764 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORD_3_202004291588146541743]
+0429-165037 - 11712 - 2004291649001088764 - MSG : PG_서버_접속__정상
+0429-165037 - 11712 - 2004291649001088764 - MSG : PG_서버_요청_전문_전송__정상
+0429-165038 - 11712 - 2004291649001088764 - MSG : PG_서버_응답_전문_수신__정상
+0429-165038 - 11712 - 2004291649001088764 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20042916490010887644order_no=ORD_3_202004291588146541743amount=33000auth_no=00084671tran_date=20200429165037card_no=4330870025768911issuer_cd=BRDissuer_nm=OK:00084671acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=4HPTGGzHgZj2PM5Iz52FxLKaLlt6d3tv4tE9Ds9o4oQ=user_nm=거제초등학교reserve1=abcreserve2=eeeuser_id=0515028081bk_pay_yn=N]
+0429-165404 -   944 - 2004291653041088766 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORD_3_202004291588146786497]
+0429-165404 -   944 - 2004291653041088766 - MSG : PG_서버_접속__정상
+0429-165404 -   944 - 2004291653041088766 - MSG : PG_서버_요청_전문_전송__정상
+0429-165404 -   944 - 2004291653041088766 - MSG : PG_서버_응답_전문_수신__정상
+0429-165404 -   944 - 2004291653041088766 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20042916530410887665order_no=ORD_3_202004291588146786497amount=33000auth_no=00084679tran_date=20200429165404card_no=4330870025768911issuer_cd=BRDissuer_nm=OK:00084679acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=4HPTGGzHgZj2PM5Iz52FxLKaLlt6d3tv4tE9Ds9o4oQ=user_nm=거제초등학교reserve1=abcreserve2=eeeuser_id=0515028081bk_pay_yn=N]
+0429-165719 - 11604 - 2004291656431088767 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORD_3_202004291588147005617]
+0429-165719 - 11604 - 2004291656431088767 - MSG : PG_서버_접속__정상
+0429-165719 - 11604 - 2004291656431088767 - MSG : PG_서버_요청_전문_전송__정상
+0429-165720 - 11604 - 2004291656431088767 - MSG : PG_서버_응답_전문_수신__정상
+0429-165720 - 11604 - 2004291656431088767 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20042916564310887675order_no=ORD_3_202004291588147005617amount=33000auth_no=00084681tran_date=20200429165719card_no=4330870025768911issuer_cd=BRDissuer_nm=OK:00084681acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=4HPTGGzHgZj2PM5Iz52FxLKaLlt6d3tv4tE9Ds9o4oQ=user_nm=거제초등학교reserve1=abcreserve2=eeeuser_id=0515028081bk_pay_yn=N]
+0429-174429 - 12276 - 2004291743461088788 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORD_3_202004291588149827806]
+0429-174429 - 12276 - 2004291743461088788 - MSG : PG_서버_접속__정상
+0429-174429 - 12276 - 2004291743461088788 - MSG : PG_서버_요청_전문_전송__정상
+0429-174429 - 12276 - 2004291743461088788 - MSG : PG_서버_응답_전문_수신__정상
+0429-174429 - 12276 - 2004291743461088788 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20042917434610887888order_no=ORD_3_202004291588149827806amount=55000auth_no=00084744tran_date=20200429174429card_no=4330870025768911issuer_cd=BRDissuer_nm=OK:00084744acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=4HPTGGzHgZj2PM5Iz52FxLKaLlt6d3tv4tE9Ds9o4oQ=user_nm=거제초등학교reserve1=abcreserve2=eeeuser_id=0515028081bk_pay_yn=N]

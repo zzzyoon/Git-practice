@@ -1,0 +1,49 @@
+● 2020-08-18 13:28:26 / Tue > RegisterAuto (curl.tlog_auto_register) > INFO :: post ▶ {"Agency":"TC0010100","Shop_phone":"01022349283","Shop_name":"이지영","Shop_record":"1"}
+● 2020-08-18 13:28:26 / Tue > RegisterAuto (curl.tlog_auto_register) > INFO :: url ▶ ["http://27.255.100.84:7123/tlogpbx503.asp?Agency=TC0010100&Shop_phone=01022349283&Shop_name=이지영&Shop_record=1"]
+● 2020-08-18 13:28:26 / Tue > RegisterAuto (curl.tlog_auto_register) > INFO :: Request output ▶ ["{\"Result\":\"1\",\"DNIS\":\"050841764276\",\"Agency\":\"TC0010100\",\"ErrCode\":\"0\"}\r\n"]
+● 2020-08-18 14:56:31 / Tue > MentDelete (ajax.gmember_ment_delete) > DEBUG :: Post ▶ {"cm_no":"9","cm_type":"1","cm_idx":"4506"}
+● 2020-08-18 14:57:00 / Tue > MentDelete (ajax.gmember_ment_delete) > DEBUG :: Post ▶ {"cm_no":"9","cm_type":"1","cm_idx":"4506"}
+● 2020-08-18 15:30:19 / Tue > RequestCurlGet (common.lib) > INFO :: params ▶ {"Agency":"TC0010100","Rest_Index":"32"}
+● 2020-08-18 15:30:19 / Tue > RequestCurlGet (common.lib) > INFO :: reqUrl ▶ ["http://27.255.100.84:7123/tlogpbx213.asp?Agency=TC0010100&Rest_Index=32"]
+● 2020-08-18 15:30:20 / Tue > RequestCurlGet (common.lib) > INFO :: Request output ▶ ["{\"Result\":\"1\",\"Agency\":\"TC0010100\",\"DNIS\":\"TC0010100\",\"Rest_Index\":\"32\",\"ErrCode\":\"0\"}\r\n"]
+● 2020-08-18 15:32:08 / Tue > RequestCurlGet (common.lib) > INFO :: params ▶ {"Agency":"TC0010100","Rest_Name":"%EB%AA%A9%EC%9A%94+%ED%8B%B0%ED%83%80%EC%9E%84","Rest_Start":"1451","Rest_End":"1551","Rest_Ment":"1","Rest_Days":"4560","Rest_Index":"30"}
+● 2020-08-18 15:32:08 / Tue > RequestCurlGet (common.lib) > INFO :: reqUrl ▶ ["http://27.255.100.84:7123/tlogpbx212.asp?Agency=TC0010100&Rest_Name=%EB%AA%A9%EC%9A%94+%ED%8B%B0%ED%83%80%EC%9E%84&Rest_Start=1451&Rest_End=1551&Rest_Ment=1&Rest_Days=4560&Rest_Index=30"]
+● 2020-08-18 15:32:08 / Tue > RequestCurlGet (common.lib) > INFO :: Request output ▶ ["{\"Result\":\"1\",\"Agency\":\"TC0010100\",\"DNIS\":\"TC0010100\",\"Rest_Index\":\"30\",\"ErrCode\":\"0\"}\r\n"]
+● 2020-08-18 15:43:42 / Tue > RequestCurlGet (common.lib) > INFO :: params ▶ {"Agency":"TC0010100","Rest_Index":"29"}
+● 2020-08-18 15:43:42 / Tue > RequestCurlGet (common.lib) > INFO :: reqUrl ▶ ["http://27.255.100.84:7123/tlogpbx213.asp?Agency=TC0010100&Rest_Index=29"]
+● 2020-08-18 15:43:42 / Tue > RequestCurlGet (common.lib) > INFO :: Request output ▶ ["{\"Result\":\"1\",\"Agency\":\"TC0010100\",\"DNIS\":\"TC0010100\",\"Rest_Index\":\"29\",\"ErrCode\":\"0\"}\r\n"]
+● 2020-08-18 15:43:48 / Tue > RequestCurlGet (common.lib) > INFO :: params ▶ {"Agency":"TC0010100","Rest_Index":"30"}
+● 2020-08-18 15:43:48 / Tue > RequestCurlGet (common.lib) > INFO :: reqUrl ▶ ["http://27.255.100.84:7123/tlogpbx213.asp?Agency=TC0010100&Rest_Index=30"]
+● 2020-08-18 15:43:48 / Tue > RequestCurlGet (common.lib) > INFO :: Request output ▶ ["{\"Result\":\"1\",\"Agency\":\"TC0010100\",\"DNIS\":\"TC0010100\",\"Rest_Index\":\"30\",\"ErrCode\":\"0\"}\r\n"]
+● 2020-08-18 15:43:59 / Tue > MentDelete (ajax.gmember_ment_delete) > DEBUG :: Post ▶ {"cm_no":"10","cm_type":"0","cm_idx":"4507"}
+● 2020-08-18 15:43:59 / Tue > RequestCurl (common.lib) > INFO :: params ▶ {"Agency":"TC0010100","MentIndex":"4507","type":"0"}
+● 2020-08-18 15:43:59 / Tue > RequestCurl (common.lib) > INFO :: reqUrl ▶ ["http://27.255.100.84:7123/tlogpbx111.asp"]
+● 2020-08-18 15:43:59 / Tue > RequestCurl (common.lib) > INFO :: plain params ▶ ["Agency=TC0010100&MentIndex=4507&type=0"]
+● 2020-08-18 15:43:59 / Tue > RequestCurl (common.lib) > INFO :: Request output ▶ ["{\"Result\":\"1\",\"Agency\":\"TC0010100\",\"MentIndex\":\"4507\",\"DNIS\":\"TC0010100\",\"ErrCode\":\"0\"}\r\n"]
+● 2020-08-18 15:43:59 / Tue > MentDelete (ajax.gmember_ment_delete) > INFO :: sql ▶ [" delete from  g5_call_ment  where mb_id = 'tcall_2214665013' and cm_no = '10'   "]
+● 2020-08-18 15:53:55 / Tue > Ment (ajax.gmember_ment_update) > DEBUG :: ment_create ▶ {"cm_no":"8","cm_type":"0","cm_idx":"4499","cm_name":"발신멘트004","cm_content":"기본 발신멘트 테스트중 입니다"}
+● 2020-08-18 15:53:55 / Tue > RequestCurl (common.lib) > INFO :: params ▶ {"Agency":"TC0010100","type":"0","Name":"발신멘트004","TtsData":"기본 발신멘트 테스트중 입니다","MentIndex":"4499"}
+● 2020-08-18 15:53:55 / Tue > RequestCurl (common.lib) > INFO :: reqUrl ▶ ["http://27.255.100.84:7123/tlogpbx111.asp"]
+● 2020-08-18 15:53:55 / Tue > RequestCurl (common.lib) > INFO :: plain params ▶ ["Agency=TC0010100&type=0&Name=%EB%B0%9C%EC%8B%A0%EB%A9%98%ED%8A%B8004&TtsData=%EA%B8%B0%EB%B3%B8+%EB%B0%9C%EC%8B%A0%EB%A9%98%ED%8A%B8+%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%A4%91+%EC%9E%85%EB%8B%88%EB%8B%A4&MentIndex=4499"]
+● 2020-08-18 15:53:56 / Tue > RequestCurl (common.lib) > INFO :: Request output ▶ ["{\"Result\":\"1\",\"Agency\":\"TC0010100\",\"MentIndex\":\"4499\",\"DNIS\":\"TC0010100\",\"ErrCode\":\"0\"}\r\n"]
+● 2020-08-18 15:53:56 / Tue > RequestCurl (common.lib) > INFO :: params ▶ {"Agency":"TC0010100","type":"0","Name":"발신멘트004","TtsData":"기본 발신멘트 테스트중 입니다","MentIndex":"4499"}
+● 2020-08-18 15:53:56 / Tue > RequestCurl (common.lib) > INFO :: reqUrl ▶ ["http://27.255.100.84:7123/tlogpbx101.asp"]
+● 2020-08-18 15:53:56 / Tue > RequestCurl (common.lib) > INFO :: plain params ▶ ["Agency=TC0010100&type=0&Name=%EB%B0%9C%EC%8B%A0%EB%A9%98%ED%8A%B8004&TtsData=%EA%B8%B0%EB%B3%B8+%EB%B0%9C%EC%8B%A0%EB%A9%98%ED%8A%B8+%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%A4%91+%EC%9E%85%EB%8B%88%EB%8B%A4&MentIndex=4499"]
+● 2020-08-18 15:53:56 / Tue > RequestCurl (common.lib) > INFO :: Request output ▶ ["{\"Result\":\"1\",\"Agency\":\"TC0010100\",\"DNIS\":\"TC0010100\",\"MentIndex\":\"4509\",\"Filename\":\"TN_TC0010100_20200818-155336.wav\",\"ErrCode\":\"0\"}\r\n"]
+● 2020-08-18 15:53:56 / Tue > Ment (ajax.gmember_ment_update) > INFO :: sql ▶ [" update g5_call_ment  set\n                   cm_idx = '4509', cm_type = '0', cm_name = '발신멘트004', cm_content = '기본 발신멘트 테스트중 입니다',\n                   cm_filename = 'TN_TC0010100_20200818-155336.wav'\n                   where mb_id = 'tcall_2214665013' and cm_no = '8'\n                     "]
+● 2020-08-18 17:22:44 / Tue > RestTime (ajax.gmember_resttime_update) > INFO :: post ▶ {"rm_no":"","rm_idx":"","rm_name":"수요 티타임","rm_stat":"Y","rm_start_time":"12:19","rm_end_time":"15:19","rm_days":["3"],"rm_ment_idx":"4509","rm_ment_name":"발신멘트004"}
+● 2020-08-18 17:22:44 / Tue > RestTime (ajax.gmember_resttime_update) > INFO :: db days ▶ ["4","5"]
+● 2020-08-18 17:22:44 / Tue > RestTime (ajax.gmember_resttime_update) > INFO :: new days ▶ ["3"]
+● 2020-08-18 17:22:44 / Tue > RestTime (ajax.gmember_resttime_update) > ALERT :: diff days ▶ ["4","5"]
+● 2020-08-18 17:25:21 / Tue > RestTime (ajax.gmember_resttime_update) > INFO :: post ▶ {"rm_no":"","rm_idx":"","rm_name":"수요 티타임","rm_stat":"Y","rm_start_time":"12:19","rm_end_time":"15:19","rm_days":["3"],"rm_ment_idx":"4509","rm_ment_name":"발신멘트004"}
+● 2020-08-18 17:25:21 / Tue > RestTime (ajax.gmember_resttime_update) > INFO :: db days ▶ ["4","5"]
+● 2020-08-18 17:25:21 / Tue > RestTime (ajax.gmember_resttime_update) > INFO :: new days ▶ ["3"]
+● 2020-08-18 17:25:21 / Tue > RestTime (ajax.gmember_resttime_update) > ALERT :: diff days ▶ []
+● 2020-08-18 17:25:21 / Tue > RequestCurlGet (common.lib) > INFO :: params ▶ {"Agency":"TC0010100","Rest_Name":"%EC%88%98%EC%9A%94+%ED%8B%B0%ED%83%80%EC%9E%84","Rest_Start":"1219","Rest_End":"1519","Rest_Ment":"4509","Rest_Days":"3"}
+● 2020-08-18 17:25:21 / Tue > RequestCurlGet (common.lib) > INFO :: reqUrl ▶ ["http://27.255.100.84:7123/tlogpbx211.asp?Agency=TC0010100&Rest_Name=%EC%88%98%EC%9A%94+%ED%8B%B0%ED%83%80%EC%9E%84&Rest_Start=1219&Rest_End=1519&Rest_Ment=4509&Rest_Days=3"]
+● 2020-08-18 17:25:21 / Tue > RequestCurlGet (common.lib) > INFO :: Request output ▶ ["{\"Result\":\"1\",\"Agency\":\"TC0010100\",\"DNIS\":\"TC0010100\",\"Rest_Index\":\"35\",\"ErrCode\":\"0\"}\r\n"]
+● 2020-08-18 17:25:50 / Tue > RestTime (ajax.gmember_resttime_update) > INFO :: post ▶ {"rm_no":"6","rm_idx":"35","rm_name":"수요 티타임","rm_stat":"Y","rm_start_time":"12:19","rm_end_time":"15:19","rm_days":["3","4"],"rm_ment_idx":"4509","rm_ment_name":"발신멘트004"}
+● 2020-08-18 17:26:40 / Tue > RestTime (ajax.gmember_resttime_update) > INFO :: post ▶ {"rm_no":"6","rm_idx":"35","rm_name":"수요 티타임","rm_stat":"Y","rm_start_time":"13:25","rm_end_time":"15:19","rm_days":["3","4"],"rm_ment_idx":"4509","rm_ment_name":"발신멘트004"}
+● 2020-08-18 17:26:40 / Tue > RequestCurlGet (common.lib) > INFO :: params ▶ {"Agency":"TC0010100","Rest_Name":"%EC%88%98%EC%9A%94+%ED%8B%B0%ED%83%80%EC%9E%84","Rest_Start":"1325","Rest_End":"1519","Rest_Ment":"4509","Rest_Days":"34","Rest_Index":"35"}
+● 2020-08-18 17:26:40 / Tue > RequestCurlGet (common.lib) > INFO :: reqUrl ▶ ["http://27.255.100.84:7123/tlogpbx212.asp?Agency=TC0010100&Rest_Name=%EC%88%98%EC%9A%94+%ED%8B%B0%ED%83%80%EC%9E%84&Rest_Start=1325&Rest_End=1519&Rest_Ment=4509&Rest_Days=34&Rest_Index=35"]
+● 2020-08-18 17:26:40 / Tue > RequestCurlGet (common.lib) > INFO :: Request output ▶ ["{\"Result\":\"1\",\"Agency\":\"TC0010100\",\"DNIS\":\"TC0010100\",\"Rest_Index\":\"35\",\"ErrCode\":\"0\"}\r\n"]

@@ -1,0 +1,25 @@
+● 2020-11-25 14:22:14 / Wed > RegisterAuto (curl.tlog_auto_register) > INFO :: post ▶ {"Agency":"tc0010400","Shop_phone":"01041233768","Shop_name":"화서윤","Shop_record":"1"}
+● 2020-11-25 14:22:14 / Wed > RegisterAuto (curl.tlog_auto_register) > INFO :: url ▶ ["http://27.255.100.84:7123/tlogpbx503.asp?Agency=tc0010400&Shop_phone=01041233768&Shop_name=화서윤&Shop_record=1"]
+● 2020-11-25 14:22:14 / Wed > RegisterAuto (curl.tlog_auto_register) > INFO :: Request output ▶ ["{\"Result\":\"1\",\"DNIS\":\"050841760002\",\"Agency\":\"tc0010400\",\"ErrCode\":\"0\"}\r\n"]
+● 2020-11-25 14:26:50 / Wed > RequestCurl (teachercall.config) > INFO :: params ▶ {"Agency":"tc0010400","Work_Start":"0700","Work_End":"1800","Work_F_ment":"71","Work_R_ment":"71","Work_E_ment":"22","Work_Days":"12345","Lunch_Start":"0000","Lunch_End":"0000","Lunch_ment":"1501"}
+● 2020-11-25 14:26:50 / Wed > RequestCurl (teachercall.config) > INFO :: reqUrl ▶ ["http://27.255.100.84:7123/tlogpbx201.asp"]
+● 2020-11-25 14:26:50 / Wed > RequestCurl (teachercall.config) > INFO :: plain params ▶ ["Agency=tc0010400&Work_Start=0700&Work_End=1800&Work_F_ment=71&Work_R_ment=71&Work_E_ment=22&Work_Days=12345&Lunch_Start=0000&Lunch_End=0000&Lunch_ment=1501"]
+● 2020-11-25 14:26:50 / Wed > RequestCurl (teachercall.config) > DEBUG :: Request output ▶ ["{\"Result\":\"1\",\"Agency\":\"tc0010400\",\"DNIS\":\"tc0010400\",\"ErrCode\":\"0\"}\r\n"]
+● 2020-11-25 14:37:23 / Wed > DashBoard (ajax.tnms_stat) > INFO :: sms query ▶ ["select count(*)  from g5_tnms_log\r\n     where  mg_no = '884'  and DATE_FORMAT(cm_datetime,'%Y-%m-%d') = '2020-11-25' and cm_time > 0"]
+● 2020-11-25 14:37:23 / Wed > DashBoard (ajax.tnms_stat) > INFO :: tnms query ▶ ["select count(*)  from g5_tnms_log\r\n     where  mg_no = '884' and cm_month = '2020-11' and cm_time > 0 "]
+● 2020-11-25 14:40:12 / Wed > RequestCurl (teachercall.config) > INFO :: params ▶ {"Agency":"tc0010400","Work_Start":"0700","Work_End":"1800","Work_F_ment":"1501","Work_R_ment":"71","Work_E_ment":"22","Work_Days":"12345","Lunch_Start":"1200","Lunch_End":"1200","Lunch_ment":"1501"}
+● 2020-11-25 14:40:12 / Wed > RequestCurl (teachercall.config) > INFO :: reqUrl ▶ ["http://27.255.100.84:7123/tlogpbx201.asp"]
+● 2020-11-25 14:40:12 / Wed > RequestCurl (teachercall.config) > INFO :: plain params ▶ ["Agency=tc0010400&Work_Start=0700&Work_End=1800&Work_F_ment=1501&Work_R_ment=71&Work_E_ment=22&Work_Days=12345&Lunch_Start=1200&Lunch_End=1200&Lunch_ment=1501"]
+● 2020-11-25 14:40:12 / Wed > RequestCurl (teachercall.config) > DEBUG :: Request output ▶ ["{\"Result\":\"1\",\"Agency\":\"tc0010400\",\"DNIS\":\"tc0010400\",\"ErrCode\":\"0\"}\r\n"]
+● 2020-11-25 15:27:07 / Wed > RequestCurl (teachercall.config) > INFO :: params ▶ {"Agency":"tc0010400","Work_Start":"0700","Work_End":"1800","Work_F_ment":"1501","Work_R_ment":"71","Work_E_ment":"22","Work_Days":"12345","Lunch_Start":"","Lunch_End":"","Lunch_ment":""}
+● 2020-11-25 15:27:07 / Wed > RequestCurl (teachercall.config) > INFO :: reqUrl ▶ ["http://27.255.100.84:7123/tlogpbx201.asp"]
+● 2020-11-25 15:27:07 / Wed > RequestCurl (teachercall.config) > INFO :: plain params ▶ ["Agency=tc0010400&Work_Start=0700&Work_End=1800&Work_F_ment=1501&Work_R_ment=71&Work_E_ment=22&Work_Days=12345&Lunch_Start=&Lunch_End=&Lunch_ment="]
+● 2020-11-25 15:27:07 / Wed > RequestCurl (teachercall.config) > DEBUG :: Request output ▶ ["{\"Result\":\"1\",\"Agency\":\"tc0010400\",\"DNIS\":\"tc0010400\",\"ErrCode\":\"0\"}\r\n"]
+● 2020-11-25 15:27:22 / Wed > RequestCurl (teachercall.config) > INFO :: params ▶ {"Agency":"tc0010400","Work_Start":"0700","Work_End":"1800","Work_F_ment":"1501","Work_R_ment":"71","Work_E_ment":"22","Work_Days":"12345","Lunch_Start":"","Lunch_End":"","Lunch_ment":""}
+● 2020-11-25 15:27:22 / Wed > RequestCurl (teachercall.config) > INFO :: reqUrl ▶ ["http://27.255.100.84:7123/tlogpbx201.asp"]
+● 2020-11-25 15:27:22 / Wed > RequestCurl (teachercall.config) > INFO :: plain params ▶ ["Agency=tc0010400&Work_Start=0700&Work_End=1800&Work_F_ment=1501&Work_R_ment=71&Work_E_ment=22&Work_Days=12345&Lunch_Start=&Lunch_End=&Lunch_ment="]
+● 2020-11-25 15:27:22 / Wed > RequestCurl (teachercall.config) > DEBUG :: Request output ▶ ["{\"Result\":\"1\",\"Agency\":\"tc0010400\",\"DNIS\":\"tc0010400\",\"ErrCode\":\"0\"}\r\n"]
+● 2020-11-25 15:39:34 / Wed > RequestCurl (teachercall.config) > INFO :: params ▶ {"Agency":"tc0010400","Work_Start":"0700","Work_End":"1800","Work_F_ment":"1501","Work_R_ment":"71","Work_E_ment":"22","Work_Days":"12345","Lunch_Start":"","Lunch_End":"","Lunch_ment":""}
+● 2020-11-25 15:39:34 / Wed > RequestCurl (teachercall.config) > INFO :: reqUrl ▶ ["http://27.255.100.84:7123/tlogpbx201.asp"]
+● 2020-11-25 15:39:34 / Wed > RequestCurl (teachercall.config) > INFO :: plain params ▶ ["Agency=tc0010400&Work_Start=0700&Work_End=1800&Work_F_ment=1501&Work_R_ment=71&Work_E_ment=22&Work_Days=12345&Lunch_Start=&Lunch_End=&Lunch_ment="]
+● 2020-11-25 15:39:34 / Wed > RequestCurl (teachercall.config) > DEBUG :: Request output ▶ ["{\"Result\":\"1\",\"Agency\":\"tc0010400\",\"DNIS\":\"tc0010400\",\"ErrCode\":\"0\"}\r\n"]

@@ -1,0 +1,5 @@
+0424-172127 -  5100 - 2004241718291088245 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORDER_202004241587716309416]
+0424-172128 -  5100 - 2004241718291088245 - MSG : PG_서버_접속__정상
+0424-172128 -  5100 - 2004241718291088245 - MSG : PG_서버_요청_전문_전송__정상
+0424-172128 -  5100 - 2004241718291088245 - MSG : PG_서버_응답_전문_수신__정상
+0424-172128 -  5100 - 2004241718291088245 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20042417182910882458order_no=ORDER_202004241587716309416amount=110000auth_no=00082448tran_date=20200424172122card_no=4330870025768911issuer_cd=BRDissuer_nm=OK:00082448acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=4HPTGGzHgZj2PM5Iz52FxLKaLlt6d3tv4tE9Ds9o4oQ=user_nm=거제초등학교user_id=0515028081bk_pay_yn=N]

@@ -1,0 +1,6 @@
+● 2021-05-20 09:04:46 / Thu > logout (logout) > ERROR :: logout check ▶ ["called  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"]
+● 2021-05-20 09:04:46 / Thu > logout (logout) > ERROR :: logout session 11  ▶ [null]
+● 2021-05-20 09:04:46 / Thu > logout (logout) > ERROR :: logout cookie 22  ▶ [""]
+● 2021-05-20 17:35:24 / Thu > logout (logout) > ERROR :: logout check ▶ ["called  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"]
+● 2021-05-20 17:35:24 / Thu > logout (logout) > ERROR :: logout session 11  ▶ [null]
+● 2021-05-20 17:35:24 / Thu > logout (logout) > ERROR :: logout cookie 22  ▶ [""]

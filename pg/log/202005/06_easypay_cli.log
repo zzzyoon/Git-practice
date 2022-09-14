@@ -1,0 +1,123 @@
+0506-101651 -  4424 - 2005061016051089104 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORD_70_202005061588727765224]
+0506-101651 -  4424 - 2005061016051089104 - MSG : PG_서버_접속__정상
+0506-101651 -  4424 - 2005061016051089104 - MSG : PG_서버_요청_전문_전송__정상
+0506-101651 -  4424 - 2005061016051089104 - MSG : PG_서버_응답_전문_수신__정상
+0506-101651 -  4424 - 2005061016051089104 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20050610160510891049order_no=ORD_70_202005061588727765224amount=5500auth_no=00086624tran_date=20200506101643card_no=4330870025768911issuer_cd=BRDissuer_nm=OK:00086624acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=4HPTGGzHgZj2PM5Iz52FxLKaLlt6d3tv4tE9Ds9o4oQ=user_nm=이재영reserve1=abcreserve2=eeeuser_id=050842629921bk_pay_yn=N]
+0506-120740 -  3296 - 2005061206451089125 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORD_70_202005061588734405640]
+0506-120740 -  3296 - 2005061206451089125 - MSG : PG_서버_접속__정상
+0506-120740 -  3296 - 2005061206451089125 - MSG : PG_서버_요청_전문_전송__정상
+0506-120741 -  3296 - 2005061206451089125 - MSG : PG_서버_응답_전문_수신__정상
+0506-120741 -  3296 - 2005061206451089125 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20050612064510891254order_no=ORD_70_202005061588734405640amount=22000auth_no=00086703tran_date=20200506120733card_no=4330870025768911issuer_cd=BRDissuer_nm=OK:00086703acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=4HPTGGzHgZj2PM5Iz52FxLKaLlt6d3tv4tE9Ds9o4oQ=user_nm=이재영reserve1=abcreserve2=eeeuser_id=050842629921bk_pay_yn=N]
+0506-135338 -  7084 - 2005061352481089142 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORD_70_202005061588740767964]
+0506-135339 -  7084 - 2005061352481089142 - MSG : PG_서버_접속__정상
+0506-135339 -  7084 - 2005061352481089142 - MSG : PG_서버_요청_전문_전송__정상
+0506-135339 -  7084 - 2005061352481089142 - MSG : PG_서버_응답_전문_수신__정상
+0506-135339 -  7084 - 2005061352481089142 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20050613524810891428order_no=ORD_70_202005061588740767964amount=33000auth_no=00086752tran_date=20200506135331card_no=4330870025768911issuer_cd=BRDissuer_nm=OK:00086752acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=4HPTGGzHgZj2PM5Iz52FxLKaLlt6d3tv4tE9Ds9o4oQ=user_nm=이재영user_id=050842629921bk_pay_yn=N]
+0506-140151 - 14596 - T001014356E1pFlPsD1 - MSG : START - tr_cd=[00201000]+mall_id=[T0010143]+order_no=[]
+0506-140151 - 14596 - T001014356E1pFlPsD1 - MSG : 암호화키 - public_encrypted - [128]
+0506-140151 - 14596 - T001014356E1pFlPsD1 - MSG : PG_서버_접속__정상
+0506-140151 - 14596 - T001014356E1pFlPsD1 - MSG : PG_서버_요청_전문_전송__정상
+0506-140151 - 14596 - T001014356E1pFlPsD1 - MSG : PG_서버_응답_전문_수신__정상
+0506-140151 - 14596 - T001014356E1pFlPsD1 - MSG : ENDED - res=[res_cd=0000res_msg=정상취소cno=20050613524810891428order_no=ORD_70_202005061588740767964amount=33000tran_date=20200506140143remain_pnt=0accrue_pnt=0escrow_yn=Ncanc_date=20200506140143stat_cd=TS02stat_msg=승인취소pay_type=11memb_id=T0010143noti_type=20mgr_amt=33000mgr_card_amt=33000mgr_cpon_amt=0mgr_seqno=20050614014310891448day_rem_pnt=0month_rem_pnt=0day_rem_cnt=0bk_pay_yn=N]
+0506-140436 -  5360 - 2005061403461089145 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORD_70_202005061588741425996]
+0506-140436 -  5360 - 2005061403461089145 - MSG : PG_서버_접속__정상
+0506-140436 -  5360 - 2005061403461089145 - MSG : PG_서버_요청_전문_전송__정상
+0506-140436 -  5360 - 2005061403461089145 - MSG : PG_서버_응답_전문_수신__정상
+0506-140436 -  5360 - 2005061403461089145 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20050614034610891457order_no=ORD_70_202005061588741425996amount=5500auth_no=00086761tran_date=20200506140428card_no=4330870025768911issuer_cd=BRDissuer_nm=OK:00086761acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=4HPTGGzHgZj2PM5Iz52FxLKaLlt6d3tv4tE9Ds9o4oQ=user_nm=이재영user_id=050842629921bk_pay_yn=N]
+0506-140620 -  9320 - T001014356E6KF1raLF - MSG : START - tr_cd=[00201000]+mall_id=[T0010143]+order_no=[]
+0506-140620 -  9320 - T001014356E6KF1raLF - MSG : 암호화키 - public_encrypted - [128]
+0506-140620 -  9320 - T001014356E6KF1raLF - MSG : PG_서버_접속__정상
+0506-140620 -  9320 - T001014356E6KF1raLF - MSG : PG_서버_요청_전문_전송__정상
+0506-140620 -  9320 - T001014356E6KF1raLF - MSG : PG_서버_응답_전문_수신__정상
+0506-140620 -  9320 - T001014356E6KF1raLF - MSG : ENDED - res=[res_cd=0000res_msg=정상취소cno=20050614034610891457order_no=ORD_70_202005061588741425996amount=5500tran_date=20200506140612remain_pnt=0accrue_pnt=0escrow_yn=Ncanc_date=20200506140612stat_cd=TS02stat_msg=승인취소pay_type=11memb_id=T0010143noti_type=20mgr_amt=5500mgr_card_amt=5500mgr_cpon_amt=0mgr_seqno=20050614061210891466day_rem_pnt=0month_rem_pnt=0day_rem_cnt=0bk_pay_yn=N]
+0506-142756 -  7164 - T001014356ERuF1raLF - MSG : START - tr_cd=[00201000]+mall_id=[T0010143]+order_no=[]
+0506-142756 -  7164 - T001014356ERuF1raLF - MSG : 암호화키 - public_encrypted - [128]
+0506-142756 -  7164 - T001014356ERuF1raLF - MSG : PG_서버_접속__정상
+0506-142756 -  7164 - T001014356ERuF1raLF - MSG : PG_서버_요청_전문_전송__정상
+0506-142756 -  7164 - T001014356ERuF1raLF - MSG : PG_서버_응답_전문_수신__정상
+0506-142756 -  7164 - T001014356ERuF1raLF - MSG : ENDED - res=[res_cd=P014res_msg=원거래 기취소cno=20050614034610891457order_no=ORD_70_202005061588741425996memb_id=T0010143]
+0506-143507 - 10472 - 2005061434271089154 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORD_70_202005061588743267275]
+0506-143508 - 10472 - 2005061434271089154 - MSG : PG_서버_접속__정상
+0506-143508 - 10472 - 2005061434271089154 - MSG : PG_서버_요청_전문_전송__정상
+0506-143508 - 10472 - 2005061434271089154 - MSG : PG_서버_응답_전문_수신__정상
+0506-143508 - 10472 - 2005061434271089154 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20050614342710891546order_no=ORD_70_202005061588743267275amount=5500auth_no=00086791tran_date=20200506143500card_no=4330870025768911issuer_cd=BRDissuer_nm=OK:00086791acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=4HPTGGzHgZj2PM5Iz52FxLKaLlt6d3tv4tE9Ds9o4oQ=user_nm=이재영user_id=050842629921bk_pay_yn=N]
+0506-143619 - 13472 - T001014356EaJF1raLF - MSG : START - tr_cd=[00201000]+mall_id=[T0010143]+order_no=[]
+0506-143619 - 13472 - T001014356EaJF1raLF - MSG : 암호화키 - public_encrypted - [128]
+0506-143619 - 13472 - T001014356EaJF1raLF - MSG : PG_서버_접속__정상
+0506-143619 - 13472 - T001014356EaJF1raLF - MSG : PG_서버_요청_전문_전송__정상
+0506-143619 - 13472 - T001014356EaJF1raLF - MSG : PG_서버_응답_전문_수신__정상
+0506-143619 - 13472 - T001014356EaJF1raLF - MSG : ENDED - res=[res_cd=E983res_msg=변경거래구분 FORMAT 오류]
+0506-144226 - 16564 - T001014356EgQF1raLF - MSG : START - tr_cd=[00201000]+mall_id=[T0010143]+order_no=[]
+0506-144226 - 16564 - T001014356EgQF1raLF - MSG : 암호화키 - public_encrypted - [128]
+0506-144226 - 16564 - T001014356EgQF1raLF - MSG : PG_서버_접속__정상
+0506-144226 - 16564 - T001014356EgQF1raLF - MSG : PG_서버_요청_전문_전송__정상
+0506-144226 - 16564 - T001014356EgQF1raLF - MSG : PG_서버_응답_전문_수신__정상
+0506-144226 - 16564 - T001014356EgQF1raLF - MSG : ENDED - res=[res_cd=E983res_msg=변경거래구분 FORMAT 오류]
+0506-144508 - 14780 - T001014356Ej8F1raLF - MSG : START - tr_cd=[00201000]+mall_id=[T0010143]+order_no=[]
+0506-144508 - 14780 - T001014356Ej8F1raLF - MSG : 암호화키 - public_encrypted - [128]
+0506-144508 - 14780 - T001014356Ej8F1raLF - MSG : PG_서버_접속__정상
+0506-144508 - 14780 - T001014356Ej8F1raLF - MSG : PG_서버_요청_전문_전송__정상
+0506-144508 - 14780 - T001014356Ej8F1raLF - MSG : PG_서버_응답_전문_수신__정상
+0506-144508 - 14780 - T001014356Ej8F1raLF - MSG : ENDED - res=[res_cd=0000res_msg=정상취소cno=20050614342710891546order_no=ORD_70_202005061588743267275amount=5500tran_date=20200506144500remain_pnt=0accrue_pnt=0escrow_yn=Ncanc_date=20200506144500stat_cd=TS02stat_msg=승인취소pay_type=11memb_id=T0010143noti_type=20mgr_amt=5500mgr_card_amt=5500mgr_cpon_amt=0mgr_seqno=20050614450010891568day_rem_pnt=0month_rem_pnt=0day_rem_cnt=0bk_pay_yn=N]
+0506-160634 -  9472 - T001014356G6YF1raLF - MSG : START - tr_cd=[00201000]+mall_id=[T0010143]+order_no=[]
+0506-160634 -  9472 - T001014356G6YF1raLF - MSG : 암호화키 - public_encrypted - [128]
+0506-160634 -  9472 - T001014356G6YF1raLF - MSG : PG_서버_접속__정상
+0506-160634 -  9472 - T001014356G6YF1raLF - MSG : PG_서버_요청_전문_전송__정상
+0506-160634 -  9472 - T001014356G6YF1raLF - MSG : PG_서버_응답_전문_수신__정상
+0506-160634 -  9472 - T001014356G6YF1raLF - MSG : ENDED - res=[res_cd=E983res_msg=변경거래구분 FORMAT 오류]
+0506-161656 -  6648 - T001014356GGuF1raLF - MSG : START - tr_cd=[00201000]+mall_id=[T0010143]+order_no=[]
+0506-161656 -  6648 - T001014356GGuF1raLF - MSG : 암호화키 - public_encrypted - [128]
+0506-161656 -  6648 - T001014356GGuF1raLF - MSG : PG_서버_접속__정상
+0506-161656 -  6648 - T001014356GGuF1raLF - MSG : PG_서버_요청_전문_전송__정상
+0506-161656 -  6648 - T001014356GGuF1raLF - MSG : PG_서버_응답_전문_수신__정상
+0506-161656 -  6648 - T001014356GGuF1raLF - MSG : ENDED - res=[res_cd=E983res_msg=변경거래구분 FORMAT 오류]
+0506-162138 - 10724 - T001014356GLcF1raLF - MSG : START - tr_cd=[00201000]+mall_id=[T0010143]+order_no=[]
+0506-162138 - 10724 - T001014356GLcF1raLF - MSG : 암호화키 - public_encrypted - [128]
+0506-162138 - 10724 - T001014356GLcF1raLF - MSG : PG_서버_접속__정상
+0506-162138 - 10724 - T001014356GLcF1raLF - MSG : PG_서버_요청_전문_전송__정상
+0506-162138 - 10724 - T001014356GLcF1raLF - MSG : PG_서버_응답_전문_수신__정상
+0506-162138 - 10724 - T001014356GLcF1raLF - MSG : ENDED - res=[res_cd=P014res_msg=원거래 기취소cno=20050614342710891546order_no=ORD_70_202005061588743267275memb_id=T0010143]
+0506-162527 -  2308 - 2005061624471089191 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORD_70_202005061588749887228]
+0506-162527 -  2308 - 2005061624471089191 - MSG : PG_서버_접속__정상
+0506-162527 -  2308 - 2005061624471089191 - MSG : PG_서버_요청_전문_전송__정상
+0506-162527 -  2308 - 2005061624471089191 - MSG : PG_서버_응답_전문_수신__정상
+0506-162527 -  2308 - 2005061624471089191 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20050616244710891910order_no=ORD_70_202005061588749887228amount=55000auth_no=00086901tran_date=20200506162519card_no=4330870025768911issuer_cd=BRDissuer_nm=OK:00086901acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=4HPTGGzHgZj2PM5Iz52FxLKaLlt6d3tv4tE9Ds9o4oQ=user_nm=이재영user_id=050842629921bk_pay_yn=N]
+0506-162534 - 12380 - T001014356GPYF1raLF - MSG : START - tr_cd=[00201000]+mall_id=[T0010143]+order_no=[]
+0506-162534 - 12380 - T001014356GPYF1raLF - MSG : 암호화키 - public_encrypted - [128]
+0506-162535 - 12380 - T001014356GPYF1raLF - MSG : PG_서버_접속__정상
+0506-162535 - 12380 - T001014356GPYF1raLF - MSG : PG_서버_요청_전문_전송__정상
+0506-162535 - 12380 - T001014356GPYF1raLF - MSG : PG_서버_응답_전문_수신__정상
+0506-162535 - 12380 - T001014356GPYF1raLF - MSG : ENDED - res=[res_cd=0000res_msg=정상취소cno=20050616244710891910order_no=ORD_70_202005061588749887228amount=55000tran_date=20200506162527remain_pnt=0accrue_pnt=0escrow_yn=Ncanc_date=20200506162527stat_cd=TS02stat_msg=승인취소pay_type=11memb_id=T0010143noti_type=20mgr_amt=55000mgr_card_amt=55000mgr_cpon_amt=0mgr_seqno=20050616252610891912day_rem_pnt=0month_rem_pnt=0day_rem_cnt=0bk_pay_yn=N]
+0506-170137 -  8324 - 2005061700471089207 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORD_70_202005061588752047821]
+0506-170137 -  8324 - 2005061700471089207 - MSG : PG_서버_접속__정상
+0506-170137 -  8324 - 2005061700471089207 - MSG : PG_서버_요청_전문_전송__정상
+0506-170137 -  8324 - 2005061700471089207 - MSG : PG_서버_응답_전문_수신__정상
+0506-170137 -  8324 - 2005061700471089207 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20050617004710892079order_no=ORD_70_202005061588752047821amount=5500auth_no=00086996tran_date=20200506170129card_no=4330870025768911issuer_cd=BRDissuer_nm=OK:00086996acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=4HPTGGzHgZj2PM5Iz52FxLKaLlt6d3tv4tE9Ds9o4oQ=user_nm=이재영user_id=050842629921bk_pay_yn=N]
+0506-171110 -  3576 - T001014356HBAF1raLF - MSG : START - tr_cd=[00201000]+mall_id=[T0010143]+order_no=[]
+0506-171110 -  3576 - T001014356HBAF1raLF - MSG : 암호화키 - public_encrypted - [128]
+0506-171110 -  3576 - T001014356HBAF1raLF - MSG : PG_서버_접속__정상
+0506-171110 -  3576 - T001014356HBAF1raLF - MSG : PG_서버_요청_전문_전송__정상
+0506-171110 -  3576 - T001014356HBAF1raLF - MSG : PG_서버_응답_전문_수신__정상
+0506-171110 -  3576 - T001014356HBAF1raLF - MSG : ENDED - res=[res_cd=0000res_msg=정상취소cno=20050617004710892079order_no=ORD_70_202005061588752047821amount=5500tran_date=20200506171102remain_pnt=0accrue_pnt=0escrow_yn=Ncanc_date=20200506171102stat_cd=TS02stat_msg=승인취소pay_type=11memb_id=T0010143noti_type=20mgr_amt=5500mgr_card_amt=5500mgr_cpon_amt=0mgr_seqno=20050617110210892117day_rem_pnt=0month_rem_pnt=0day_rem_cnt=0bk_pay_yn=N]
+0506-172242 -  8412 - 2005061721591089214 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORD_70_202005061588753320112]
+0506-172242 -  8412 - 2005061721591089214 - MSG : PG_서버_접속__정상
+0506-172242 -  8412 - 2005061721591089214 - MSG : PG_서버_요청_전문_전송__정상
+0506-172242 -  8412 - 2005061721591089214 - MSG : PG_서버_응답_전문_수신__정상
+0506-172242 -  8412 - 2005061721591089214 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20050617215910892142order_no=ORD_70_202005061588753320112amount=5500auth_no=00087022tran_date=20200506172234card_no=4330870025768911issuer_cd=BRDissuer_nm=OK:00087022acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=4HPTGGzHgZj2PM5Iz52FxLKaLlt6d3tv4tE9Ds9o4oQ=user_nm=이재영user_id=050842629921bk_pay_yn=N]
+0506-172250 -  6992 - T001014356HMoF1raLF - MSG : START - tr_cd=[00201000]+mall_id=[T0010143]+order_no=[]
+0506-172251 -  6992 - T001014356HMoF1raLF - MSG : 암호화키 - public_encrypted - [128]
+0506-172251 -  6992 - T001014356HMoF1raLF - MSG : PG_서버_접속__정상
+0506-172251 -  6992 - T001014356HMoF1raLF - MSG : PG_서버_요청_전문_전송__정상
+0506-172251 -  6992 - T001014356HMoF1raLF - MSG : PG_서버_응답_전문_수신__정상
+0506-172251 -  6992 - T001014356HMoF1raLF - MSG : ENDED - res=[res_cd=0000res_msg=정상취소cno=20050617215910892142order_no=ORD_70_202005061588753320112amount=5500tran_date=20200506172243remain_pnt=0accrue_pnt=0escrow_yn=Ncanc_date=20200506172243stat_cd=TS02stat_msg=승인취소pay_type=11memb_id=T0010143noti_type=20mgr_amt=5500mgr_card_amt=5500mgr_cpon_amt=0mgr_seqno=20050617224310892144day_rem_pnt=0month_rem_pnt=0day_rem_cnt=0bk_pay_yn=N]
+0506-173043 -  2204 - 2005061730021089215 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORD_70_202005061588753802745]
+0506-173043 -  2204 - 2005061730021089215 - MSG : PG_서버_접속__정상
+0506-173043 -  2204 - 2005061730021089215 - MSG : PG_서버_요청_전문_전송__정상
+0506-173043 -  2204 - 2005061730021089215 - MSG : PG_서버_응답_전문_수신__정상
+0506-173043 -  2204 - 2005061730021089215 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20050617300210892158order_no=ORD_70_202005061588753802745amount=33000auth_no=00087029tran_date=20200506173035card_no=4330870025768911issuer_cd=BRDissuer_nm=OK:00087029acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=4HPTGGzHgZj2PM5Iz52FxLKaLlt6d3tv4tE9Ds9o4oQ=user_nm=이재영user_id=050842629921bk_pay_yn=N]
+0506-173107 - 13024 - T001014356HV7F1raLF - MSG : START - tr_cd=[00201000]+mall_id=[T0010143]+order_no=[]
+0506-173107 - 13024 - T001014356HV7F1raLF - MSG : 암호화키 - public_encrypted - [128]
+0506-173107 - 13024 - T001014356HV7F1raLF - MSG : PG_서버_접속__정상
+0506-173107 - 13024 - T001014356HV7F1raLF - MSG : PG_서버_요청_전문_전송__정상
+0506-173107 - 13024 - T001014356HV7F1raLF - MSG : PG_서버_응답_전문_수신__정상
+0506-173107 - 13024 - T001014356HV7F1raLF - MSG : ENDED - res=[res_cd=0000res_msg=정상취소cno=20050617300210892158order_no=ORD_70_202005061588753802745amount=33000tran_date=20200506173059remain_pnt=0accrue_pnt=0escrow_yn=Ncanc_date=20200506173059stat_cd=TS02stat_msg=승인취소pay_type=11memb_id=T0010143noti_type=20mgr_amt=33000mgr_card_amt=33000mgr_cpon_amt=0mgr_seqno=20050617305910892163day_rem_pnt=0month_rem_pnt=0day_rem_cnt=0bk_pay_yn=N]

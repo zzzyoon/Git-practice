@@ -1,0 +1,59 @@
+● 2020-08-19 12:40:04 / Wed > RequestCurl (common.lib) > INFO :: params ▶ {"Agency":"TC0010200","type":0,"Name":"기본 업무 발신멘트","TtsData":"안녕하십니까 거제중학교 번호로 연결됩니다"}
+● 2020-08-19 12:40:04 / Wed > RequestCurl (common.lib) > INFO :: reqUrl ▶ ["http://27.255.100.84:7123/tlogpbx101.asp"]
+● 2020-08-19 12:40:04 / Wed > RequestCurl (common.lib) > INFO :: plain params ▶ ["Agency=TC0010200&type=0&Name=%EA%B8%B0%EB%B3%B8+%EC%97%85%EB%AC%B4+%EB%B0%9C%EC%8B%A0%EB%A9%98%ED%8A%B8&TtsData=%EC%95%88%EB%85%95%ED%95%98%EC%8B%AD%EB%8B%88%EA%B9%8C+%EA%B1%B0%EC%A0%9C%EC%A4%91%ED%95%99%EA%B5%90+%EB%B2%88%ED%98%B8%EB%A1%9C+%EC%97%B0%EA%B2%B0%EB%90%A9%EB%8B%88%EB%8B%A4"]
+● 2020-08-19 12:40:05 / Wed > RequestCurl (common.lib) > INFO :: Request output ▶ ["{\"Result\":\"1\",\"Agency\":\"TC0010200\",\"DNIS\":\"TC0010200\",\"MentIndex\":\"4510\",\"Filename\":\"TN_TC0010200_20200819-123941.wav\",\"ErrCode\":\"0\"}\r\n"]
+● 2020-08-19 12:40:05 / Wed > RequestCurl (common.lib) > INFO :: params ▶ {"Agency":"TC0010200","type":1,"Name":"기본 업무 착신멘트","TtsData":"티처콜 안심번호로 연결된 전화입니다"}
+● 2020-08-19 12:40:05 / Wed > RequestCurl (common.lib) > INFO :: reqUrl ▶ ["http://27.255.100.84:7123/tlogpbx101.asp"]
+● 2020-08-19 12:40:05 / Wed > RequestCurl (common.lib) > INFO :: plain params ▶ ["Agency=TC0010200&type=1&Name=%EA%B8%B0%EB%B3%B8+%EC%97%85%EB%AC%B4+%EC%B0%A9%EC%8B%A0%EB%A9%98%ED%8A%B8&TtsData=%ED%8B%B0%EC%B2%98%EC%BD%9C+%EC%95%88%EC%8B%AC%EB%B2%88%ED%98%B8%EB%A1%9C+%EC%97%B0%EA%B2%B0%EB%90%9C+%EC%A0%84%ED%99%94%EC%9E%85%EB%8B%88%EB%8B%A4"]
+● 2020-08-19 12:40:06 / Wed > RequestCurl (common.lib) > INFO :: Request output ▶ ["{\"Result\":\"1\",\"Agency\":\"TC0010200\",\"DNIS\":\"TC0010200\",\"MentIndex\":\"4511\",\"Filename\":\"TN_TC0010200_20200819-123942.wav\",\"ErrCode\":\"0\"}\r\n"]
+● 2020-08-19 12:40:06 / Wed > RequestCurl (common.lib) > INFO :: params ▶ {"Agency":"TC0010200","type":0,"Name":"기본 업무종료 안내멘트","TtsData":"안녕하십니까 업무가종료되었습니다  용무가 있으신분은 평일 업무시간에 전화해주세요"}
+● 2020-08-19 12:40:06 / Wed > RequestCurl (common.lib) > INFO :: reqUrl ▶ ["http://27.255.100.84:7123/tlogpbx101.asp"]
+● 2020-08-19 12:40:06 / Wed > RequestCurl (common.lib) > INFO :: plain params ▶ ["Agency=TC0010200&type=0&Name=%EA%B8%B0%EB%B3%B8+%EC%97%85%EB%AC%B4%EC%A2%85%EB%A3%8C+%EC%95%88%EB%82%B4%EB%A9%98%ED%8A%B8&TtsData=%EC%95%88%EB%85%95%ED%95%98%EC%8B%AD%EB%8B%88%EA%B9%8C+%EC%97%85%EB%AC%B4%EA%B0%80%EC%A2%85%EB%A3%8C%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4++%EC%9A%A9%EB%AC%B4%EA%B0%80+%EC%9E%88%EC%9C%BC%EC%8B%A0%EB%B6%84%EC%9D%80+%ED%8F%89%EC%9D%BC+%EC%97%85%EB%AC%B4%EC%8B%9C%EA%B0%84%EC%97%90+%EC%A0%84%ED%99%94%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94"]
+● 2020-08-19 12:40:08 / Wed > RequestCurl (common.lib) > INFO :: Request output ▶ ["{\"Result\":\"1\",\"Agency\":\"TC0010200\",\"DNIS\":\"TC0010200\",\"MentIndex\":\"4512\",\"Filename\":\"TN_TC0010200_20200819-123943.wav\",\"ErrCode\":\"0\"}\r\n"]
+● 2020-08-19 12:40:08 / Wed > RequestCurl (common.lib) > INFO :: params ▶ {"Agency":"TC0010200","Work_Start":"0900","Work_End":"1800","Work_F_ment":"4510","Work_R_ment":"4511","Work_E_ment":"4512","Work_Days":"12345"}
+● 2020-08-19 12:40:08 / Wed > RequestCurl (common.lib) > INFO :: reqUrl ▶ ["http://27.255.100.84:7123/tlogpbx201.asp"]
+● 2020-08-19 12:40:08 / Wed > RequestCurl (common.lib) > INFO :: plain params ▶ ["Agency=TC0010200&Work_Start=0900&Work_End=1800&Work_F_ment=4510&Work_R_ment=4511&Work_E_ment=4512&Work_Days=12345"]
+● 2020-08-19 12:40:08 / Wed > RequestCurl (common.lib) > INFO :: Request output ▶ ["{\"Result\":\"1\",\"Agency\":\"TC0010200\",\"DNIS\":\"TC0010200\",\"ErrCode\":\"0\"}\r\n"]
+● 2020-08-19 13:07:22 / Wed > RequestCurl (common.lib) > INFO :: params ▶ {"Agency":"0515449283","type":0,"Name":"기본 업무 발신멘트","TtsData":"안녕하십니까 거제중학교 번호로 연결됩니다"}
+● 2020-08-19 13:07:22 / Wed > RequestCurl (common.lib) > INFO :: reqUrl ▶ ["http://27.255.100.84:7123/tlogpbx101.asp"]
+● 2020-08-19 13:07:22 / Wed > RequestCurl (common.lib) > INFO :: plain params ▶ ["Agency=0515449283&type=0&Name=%EA%B8%B0%EB%B3%B8+%EC%97%85%EB%AC%B4+%EB%B0%9C%EC%8B%A0%EB%A9%98%ED%8A%B8&TtsData=%EC%95%88%EB%85%95%ED%95%98%EC%8B%AD%EB%8B%88%EA%B9%8C+%EA%B1%B0%EC%A0%9C%EC%A4%91%ED%95%99%EA%B5%90+%EB%B2%88%ED%98%B8%EB%A1%9C+%EC%97%B0%EA%B2%B0%EB%90%A9%EB%8B%88%EB%8B%A4"]
+● 2020-08-19 13:07:22 / Wed > RequestCurl (common.lib) > INFO :: Request output ▶ ["{\"Result\":\"0\",\"Agency\":\"0515449283\",\"DNIS\":\"0515449283\",\"MentIndex\":\"\",\"Filename\":\"\",\"ErrCode\":\"119\"}\r\n"]
+● 2020-08-19 13:08:44 / Wed > RequestCurl (common.lib) > INFO :: params ▶ {"Agency":"TC0010200","type":0,"Name":"기본 업무 발신멘트","TtsData":"안녕하십니까 거제중학교 번호로 연결됩니다"}
+● 2020-08-19 13:08:44 / Wed > RequestCurl (common.lib) > INFO :: reqUrl ▶ ["http://27.255.100.84:7123/tlogpbx101.asp"]
+● 2020-08-19 13:08:44 / Wed > RequestCurl (common.lib) > INFO :: plain params ▶ ["Agency=TC0010200&type=0&Name=%EA%B8%B0%EB%B3%B8+%EC%97%85%EB%AC%B4+%EB%B0%9C%EC%8B%A0%EB%A9%98%ED%8A%B8&TtsData=%EC%95%88%EB%85%95%ED%95%98%EC%8B%AD%EB%8B%88%EA%B9%8C+%EA%B1%B0%EC%A0%9C%EC%A4%91%ED%95%99%EA%B5%90+%EB%B2%88%ED%98%B8%EB%A1%9C+%EC%97%B0%EA%B2%B0%EB%90%A9%EB%8B%88%EB%8B%A4"]
+● 2020-08-19 13:08:45 / Wed > RequestCurl (common.lib) > INFO :: Request output ▶ ["{\"Result\":\"1\",\"Agency\":\"TC0010200\",\"DNIS\":\"TC0010200\",\"MentIndex\":\"4513\",\"Filename\":\"TN_TC0010200_20200819-130821.wav\",\"ErrCode\":\"0\"}\r\n"]
+● 2020-08-19 13:08:45 / Wed > RequestCurl (common.lib) > INFO :: params ▶ {"Agency":"TC0010200","type":1,"Name":"기본 업무 착신멘트","TtsData":"티처콜 안심번호로 연결된 전화입니다"}
+● 2020-08-19 13:08:45 / Wed > RequestCurl (common.lib) > INFO :: reqUrl ▶ ["http://27.255.100.84:7123/tlogpbx101.asp"]
+● 2020-08-19 13:08:45 / Wed > RequestCurl (common.lib) > INFO :: plain params ▶ ["Agency=TC0010200&type=1&Name=%EA%B8%B0%EB%B3%B8+%EC%97%85%EB%AC%B4+%EC%B0%A9%EC%8B%A0%EB%A9%98%ED%8A%B8&TtsData=%ED%8B%B0%EC%B2%98%EC%BD%9C+%EC%95%88%EC%8B%AC%EB%B2%88%ED%98%B8%EB%A1%9C+%EC%97%B0%EA%B2%B0%EB%90%9C+%EC%A0%84%ED%99%94%EC%9E%85%EB%8B%88%EB%8B%A4"]
+● 2020-08-19 13:08:46 / Wed > RequestCurl (common.lib) > ERROR :: Request Error ▶ null
+● 2020-08-19 13:10:57 / Wed > RequestCurl (common.lib) > INFO :: params ▶ {"Agency":"TC0010200","type":0,"Name":"기본 업무 발신멘트","TtsData":"안녕하십니까 거제중학교 번호로 연결됩니다"}
+● 2020-08-19 13:10:57 / Wed > RequestCurl (common.lib) > INFO :: reqUrl ▶ ["http://27.255.100.84:7123/tlogpbx101.asp"]
+● 2020-08-19 13:10:57 / Wed > RequestCurl (common.lib) > INFO :: plain params ▶ ["Agency=TC0010200&type=0&Name=%EA%B8%B0%EB%B3%B8+%EC%97%85%EB%AC%B4+%EB%B0%9C%EC%8B%A0%EB%A9%98%ED%8A%B8&TtsData=%EC%95%88%EB%85%95%ED%95%98%EC%8B%AD%EB%8B%88%EA%B9%8C+%EA%B1%B0%EC%A0%9C%EC%A4%91%ED%95%99%EA%B5%90+%EB%B2%88%ED%98%B8%EB%A1%9C+%EC%97%B0%EA%B2%B0%EB%90%A9%EB%8B%88%EB%8B%A4"]
+● 2020-08-19 13:10:58 / Wed > RequestCurl (common.lib) > INFO :: Request output ▶ ["{\"Result\":\"1\",\"Agency\":\"TC0010200\",\"DNIS\":\"TC0010200\",\"MentIndex\":\"4514\",\"Filename\":\"TN_TC0010200_20200819-131033.wav\",\"ErrCode\":\"0\"}\r\n"]
+● 2020-08-19 13:10:58 / Wed > RequestCurl (common.lib) > INFO :: params ▶ {"Agency":"TC0010200","type":1,"Name":"기본 업무 착신멘트","TtsData":"티처콜 안심번호로 연결된 전화입니다"}
+● 2020-08-19 13:10:58 / Wed > RequestCurl (common.lib) > INFO :: reqUrl ▶ ["http://27.255.100.84:7123/tlogpbx101.asp"]
+● 2020-08-19 13:10:58 / Wed > RequestCurl (common.lib) > INFO :: plain params ▶ ["Agency=TC0010200&type=1&Name=%EA%B8%B0%EB%B3%B8+%EC%97%85%EB%AC%B4+%EC%B0%A9%EC%8B%A0%EB%A9%98%ED%8A%B8&TtsData=%ED%8B%B0%EC%B2%98%EC%BD%9C+%EC%95%88%EC%8B%AC%EB%B2%88%ED%98%B8%EB%A1%9C+%EC%97%B0%EA%B2%B0%EB%90%9C+%EC%A0%84%ED%99%94%EC%9E%85%EB%8B%88%EB%8B%A4"]
+● 2020-08-19 13:10:58 / Wed > RequestCurl (common.lib) > INFO :: Request output ▶ ["{\"Result\":\"1\",\"Agency\":\"TC0010200\",\"DNIS\":\"TC0010200\",\"MentIndex\":\"4515\",\"Filename\":\"TN_TC0010200_20200819-131034.wav\",\"ErrCode\":\"0\"}\r\n"]
+● 2020-08-19 13:10:58 / Wed > RequestCurl (common.lib) > INFO :: params ▶ {"Agency":"TC0010200","type":0,"Name":"기본 업무종료 안내멘트","TtsData":"안녕하십니까 업무가종료되었습니다  용무가 있으신분은 평일 업무시간에 전화해주세요"}
+● 2020-08-19 13:10:58 / Wed > RequestCurl (common.lib) > INFO :: reqUrl ▶ ["http://27.255.100.84:7123/tlogpbx101.asp"]
+● 2020-08-19 13:10:58 / Wed > RequestCurl (common.lib) > INFO :: plain params ▶ ["Agency=TC0010200&type=0&Name=%EA%B8%B0%EB%B3%B8+%EC%97%85%EB%AC%B4%EC%A2%85%EB%A3%8C+%EC%95%88%EB%82%B4%EB%A9%98%ED%8A%B8&TtsData=%EC%95%88%EB%85%95%ED%95%98%EC%8B%AD%EB%8B%88%EA%B9%8C+%EC%97%85%EB%AC%B4%EA%B0%80%EC%A2%85%EB%A3%8C%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4++%EC%9A%A9%EB%AC%B4%EA%B0%80+%EC%9E%88%EC%9C%BC%EC%8B%A0%EB%B6%84%EC%9D%80+%ED%8F%89%EC%9D%BC+%EC%97%85%EB%AC%B4%EC%8B%9C%EA%B0%84%EC%97%90+%EC%A0%84%ED%99%94%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94"]
+● 2020-08-19 13:11:00 / Wed > RequestCurl (common.lib) > INFO :: Request output ▶ ["{\"Result\":\"1\",\"Agency\":\"TC0010200\",\"DNIS\":\"TC0010200\",\"MentIndex\":\"4516\",\"Filename\":\"TN_TC0010200_20200819-131035.wav\",\"ErrCode\":\"0\"}\r\n"]
+● 2020-08-19 13:11:00 / Wed > RequestCurl (common.lib) > INFO :: params ▶ {"Agency":"TC0010200","Work_Start":"0900","Work_End":"1800","Work_F_ment":"4514","Work_R_ment":"4515","Work_E_ment":"4516","Work_Days":"12345"}
+● 2020-08-19 13:11:00 / Wed > RequestCurl (common.lib) > INFO :: reqUrl ▶ ["http://27.255.100.84:7123/tlogpbx201.asp"]
+● 2020-08-19 13:11:00 / Wed > RequestCurl (common.lib) > INFO :: plain params ▶ ["Agency=TC0010200&Work_Start=0900&Work_End=1800&Work_F_ment=4514&Work_R_ment=4515&Work_E_ment=4516&Work_Days=12345"]
+● 2020-08-19 13:11:00 / Wed > RequestCurl (common.lib) > INFO :: Request output ▶ ["{\"Result\":\"1\",\"Agency\":\"TC0010200\",\"DNIS\":\"TC0010200\",\"ErrCode\":\"0\"}\r\n"]
+● 2020-08-19 15:36:36 / Wed > RequestCurl (common.lib) > INFO :: params ▶ {"Agency":"TC0010200","MentIndex":"4514","type":"0"}
+● 2020-08-19 15:36:36 / Wed > RequestCurl (common.lib) > INFO :: reqUrl ▶ ["http://27.255.100.84:7123/tlogpbx111.asp"]
+● 2020-08-19 15:36:36 / Wed > RequestCurl (common.lib) > INFO :: plain params ▶ ["Agency=TC0010200&MentIndex=4514&type=0"]
+● 2020-08-19 15:36:36 / Wed > RequestCurl (common.lib) > INFO :: Request output ▶ ["{\"Result\":\"1\",\"Agency\":\"TC0010200\",\"MentIndex\":\"4514\",\"DNIS\":\"TC0010200\",\"ErrCode\":\"0\"}\r\n"]
+● 2020-08-19 15:36:36 / Wed > RequestCurl (common.lib) > INFO :: params ▶ {"Agency":"TC0010200","MentIndex":"4515","type":"1"}
+● 2020-08-19 15:36:36 / Wed > RequestCurl (common.lib) > INFO :: reqUrl ▶ ["http://27.255.100.84:7123/tlogpbx111.asp"]
+● 2020-08-19 15:36:36 / Wed > RequestCurl (common.lib) > INFO :: plain params ▶ ["Agency=TC0010200&MentIndex=4515&type=1"]
+● 2020-08-19 15:36:36 / Wed > RequestCurl (common.lib) > INFO :: Request output ▶ ["{\"Result\":\"1\",\"Agency\":\"TC0010200\",\"MentIndex\":\"4515\",\"DNIS\":\"TC0010200\",\"ErrCode\":\"0\"}\r\n"]
+● 2020-08-19 15:36:36 / Wed > RequestCurl (common.lib) > INFO :: params ▶ {"Agency":"TC0010200","MentIndex":"4516","type":"0"}
+● 2020-08-19 15:36:36 / Wed > RequestCurl (common.lib) > INFO :: reqUrl ▶ ["http://27.255.100.84:7123/tlogpbx111.asp"]
+● 2020-08-19 15:36:36 / Wed > RequestCurl (common.lib) > INFO :: plain params ▶ ["Agency=TC0010200&MentIndex=4516&type=0"]
+● 2020-08-19 15:36:36 / Wed > RequestCurl (common.lib) > INFO :: Request output ▶ ["{\"Result\":\"1\",\"Agency\":\"TC0010200\",\"MentIndex\":\"4516\",\"DNIS\":\"TC0010200\",\"ErrCode\":\"0\"}\r\n"]
+● 2020-08-19 16:13:19 / Wed > RegisterAuto (curl.tlog_auto_register) > INFO :: post ▶ {"Agency":"TC0010100","Shop_phone":"01044099283","Shop_name":"아이뻐","Shop_record":"1"}
+● 2020-08-19 16:13:19 / Wed > RegisterAuto (curl.tlog_auto_register) > INFO :: url ▶ ["http://27.255.100.84:7123/tlogpbx503.asp?Agency=TC0010100&Shop_phone=01044099283&Shop_name=아이뻐&Shop_record=1"]
+● 2020-08-19 16:13:19 / Wed > RegisterAuto (curl.tlog_auto_register) > INFO :: Request output ▶ ["{\"Result\":\"1\",\"DNIS\":\"050841764277\",\"Agency\":\"TC0010100\",\"ErrCode\":\"0\"}\r\n"]

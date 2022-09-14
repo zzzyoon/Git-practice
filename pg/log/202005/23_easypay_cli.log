@@ -1,0 +1,26 @@
+0523-125039 -  3816 - 2005231249261091385 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORD_70_202005231590205766467]
+0523-125039 -  3816 - 2005231249261091385 - MSG : PG_서버_접속__정상
+0523-125039 -  3816 - 2005231249261091385 - MSG : PG_서버_요청_전문_전송__정상
+0523-125039 -  3816 - 2005231249261091385 - MSG : PG_서버_응답_전문_수신__정상
+0523-125039 -  3816 - 2005231249261091385 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20052312492610913856order_no=ORD_70_202005231590205766467amount=22000auth_no=00095154tran_date=20200523125012card_no=4330870025768911issuer_cd=BRDissuer_nm=OK:00095154acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=4HPTGGzHgZj2PM5Iz52FxLKaLlt6d3tv4tE9Ds9o4oQ=user_nm=이재영user_id=050842629921bk_pay_yn=N]
+0523-131750 -   124 - 2005231315241091387 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORDM_70_202005231590207324005]
+0523-131750 -   124 - 2005231315241091387 - MSG : PG_서버_접속__정상
+0523-131750 -   124 - 2005231315241091387 - MSG : PG_서버_요청_전문_전송__정상
+0523-131750 -   124 - 2005231315241091387 - MSG : PG_서버_응답_전문_수신__정상
+0523-131750 -   124 - 2005231315241091387 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20052313152410913870order_no=ORDM_70_202005231590207324005amount=22000auth_no=00095156tran_date=20200523131723card_no=4330870025768911issuer_cd=BRDissuer_nm=OK:00095156acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=4HPTGGzHgZj2PM5Iz52FxLKaLlt6d3tv4tE9Ds9o4oQ=user_nm=이재영user_id=050842629921bk_pay_yn=N]
+0523-143927 -  8352 - 2005231438011091388 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORDM_70_202005231590212281754]
+0523-143927 -  8352 - 2005231438011091388 - MSG : PG_서버_접속__정상
+0523-143927 -  8352 - 2005231438011091388 - MSG : PG_서버_요청_전문_전송__정상
+0523-143928 -  8352 - 2005231438011091388 - MSG : PG_서버_응답_전문_수신__정상
+0523-143928 -  8352 - 2005231438011091388 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20052314380110913889order_no=ORDM_70_202005231590212281754amount=22000auth_no=00095157tran_date=20200523143900card_no=4330870025768911issuer_cd=BRDissuer_nm=OK:00095157acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=4HPTGGzHgZj2PM5Iz52FxLKaLlt6d3tv4tE9Ds9o4oQ=user_nm=이재영user_id=050842629921bk_pay_yn=N]
+0523-144622 - 11276 - 2005231444461091389 - MSG : START - tr_cd=[00101000]+mall_id=[T0010143]+order_no=[ORDM_70_202005231590212686157]
+0523-144622 - 11276 - 2005231444461091389 - MSG : PG_서버_접속__정상
+0523-144622 - 11276 - 2005231444461091389 - MSG : PG_서버_요청_전문_전송__정상
+0523-144622 - 11276 - 2005231444461091389 - MSG : PG_서버_응답_전문_수신__정상
+0523-144622 - 11276 - 2005231444461091389 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20052314444610913890order_no=ORDM_70_202005231590212686157amount=22000auth_no=00095158tran_date=20200523144555card_no=4330870025768911issuer_cd=BRDissuer_nm=OK:00095158acquirer_cd=BCCacquirer_nm=Payzone TestCardnoint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS01stat_msg=승인van_tid=0700091van_sno=000111000111cc_expr_date=4912pay_type=11memb_id=T0010143noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=4HPTGGzHgZj2PM5Iz52FxLKaLlt6d3tv4tE9Ds9o4oQ=user_nm=이재영user_id=050842629921bk_pay_yn=N]
+0523-144653 -  3088 - T00101435NEkrF1raLF - MSG : START - tr_cd=[00201000]+mall_id=[T0010143]+order_no=[]
+0523-144653 -  3088 - T00101435NEkrF1raLF - MSG : 암호화키 - public_encrypted - [128]
+0523-144653 -  3088 - T00101435NEkrF1raLF - MSG : PG_서버_접속__정상
+0523-144653 -  3088 - T00101435NEkrF1raLF - MSG : PG_서버_요청_전문_전송__정상
+0523-144653 -  3088 - T00101435NEkrF1raLF - MSG : PG_서버_응답_전문_수신__정상
+0523-144653 -  3088 - T00101435NEkrF1raLF - MSG : ENDED - res=[res_cd=0000res_msg=정상취소cno=20052314444610913890order_no=ORDM_70_202005231590212686157amount=22000tran_date=20200523144626remain_pnt=0accrue_pnt=0escrow_yn=Ncanc_date=20200523144626stat_cd=TS02stat_msg=승인취소pay_type=11memb_id=T0010143noti_type=20mgr_amt=22000mgr_card_amt=22000mgr_cpon_amt=0mgr_seqno=20052314462610913891day_rem_pnt=0month_rem_pnt=0day_rem_cnt=0bk_pay_yn=N]
