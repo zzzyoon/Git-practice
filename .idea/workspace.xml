@@ -18,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/theme/munhwa/skin/book/basic/out_check_gt.skin.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="574">
-              <caret line="387" column="29" lean-forward="true" selection-start-line="387" selection-start-column="29" selection-end-line="387" selection-end-column="29" />
+              <caret line="387" column="27" lean-forward="true" selection-start-line="387" selection-start-column="27" selection-end-line="387" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -391,12 +391,12 @@
       <workItem from="1662511994393" duration="10409000" />
       <workItem from="1662620735629" duration="1474000" />
       <workItem from="1663036044329" duration="15452000" />
-      <workItem from="1663113666270" duration="17009000" />
+      <workItem from="1663113666270" duration="17197000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="618460000" />
+    <option name="totallyTimeSpent" value="618648000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="0" width="1936" height="1056" extended-state="6" />
@@ -766,7 +766,7 @@
     <entry file="file://$PROJECT_DIR$/theme/munhwa/skin/book/basic/out_check_gt.skin.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="574">
-          <caret line="387" column="29" lean-forward="true" selection-start-line="387" selection-start-column="29" selection-end-line="387" selection-end-column="29" />
+          <caret line="387" column="27" lean-forward="true" selection-start-line="387" selection-start-column="27" selection-end-line="387" selection-end-column="27" />
         </state>
       </provider>
     </entry>

@@ -384,7 +384,7 @@ add_javascript('<script src="'.G5_THEME_JS_URL.'/bootstrap-material-datetimepick
                 $('#inv_no').val('');
                 $('#inv_no').focus();
                 MsgBox.alert("* 이미 출고된 전표입니다. ");
-                // formClear();
+                formClear();
                 return false;
             }
 
