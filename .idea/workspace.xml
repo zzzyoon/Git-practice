@@ -17,8 +17,8 @@
       <file leaf-file-name="out_check_gt.skin.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/theme/munhwa/skin/book/basic/out_check_gt.skin.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="386" column="28" lean-forward="true" selection-start-line="386" selection-start-column="28" selection-end-line="386" selection-end-column="28" />
+            <state relative-caret-position="574">
+              <caret line="387" column="29" lean-forward="true" selection-start-line="387" selection-start-column="29" selection-end-line="387" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -26,8 +26,8 @@
       <file leaf-file-name="ajax.chulmt_capo_search.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bbs/ajax.chulmt_capo_search.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="161">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -87,6 +87,9 @@
       <replace>bar_cd</replace>
       <replace>slip_no</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -185,6 +188,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -387,12 +391,12 @@
       <workItem from="1662511994393" duration="10409000" />
       <workItem from="1662620735629" duration="1474000" />
       <workItem from="1663036044329" duration="15452000" />
-      <workItem from="1663113666270" duration="16065000" />
+      <workItem from="1663113666270" duration="17009000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="617516000" />
+    <option name="totallyTimeSpent" value="618460000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="0" width="1936" height="1056" extended-state="6" />
@@ -402,7 +406,7 @@
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.30260417" side_tool="true" weight="0.3284055" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="File Transfer" order="11" sideWeight="0.69739586" weight="0.32946146" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16614583" />
@@ -754,15 +758,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bbs/ajax.chulmt_capo_search.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="161">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/theme/munhwa/skin/book/basic/out_check_gt.skin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="386" column="28" lean-forward="true" selection-start-line="386" selection-start-column="28" selection-end-line="386" selection-end-column="28" />
+        <state relative-caret-position="574">
+          <caret line="387" column="29" lean-forward="true" selection-start-line="387" selection-start-column="29" selection-end-line="387" selection-end-column="29" />
         </state>
       </provider>
     </entry>
